@@ -1,0 +1,26 @@
+[
+    {
+    	"id":1,
+        "name":"England",
+        "capital":"London",
+        "population":61000000
+    },
+    {
+    	"id":2,
+        "name":"France",
+        "capital":"Paris",
+        "population":65000000
+    },
+    {
+    	"id":3,
+        "name":"Germany",
+        "capital":"Berlin",
+        "population":80000000
+    },
+    {
+    	"id":4,
+        "name":"USA",
+        "capital":"Washington",
+        "population":321000000
+    }
+]
